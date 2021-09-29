@@ -16,7 +16,7 @@ class MainPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blueGrey,
-        title: const Text('Demo MVVM'),
+        title: const Text('Example MVVM'),
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
